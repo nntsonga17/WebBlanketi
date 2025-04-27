@@ -1,0 +1,49 @@
+.naslov{
+    display: flex;
+    justify-content: center;
+}
+.sadrzaj{
+    display: flex;
+}
+.kupovinaDiv{
+    border: 1px solid black;
+    width: 350px;
+    height: 180px;
+    flex: 0 0 350px;
+}
+.red{
+    display: flex;
+    justify-content: space-between;
+}
+.naslov2{
+    display: flex;
+    justify-content: center;
+}
+.buttonKupi{
+    width: 300%;
+    margin: 10px;
+}
+.sedista{
+    height: 30px;
+    width: 100px;
+    margin: 5px;
+}
+.sedistaDiv{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+.sedistaRed{
+    display: flex;
+    justify-content: center;
+}
+input{
+    margin-right: 5px;
+}
+
+.crveno{
+    background-color: red;
+}
+.zeleno{
+    background-color: greenyellow;
+}
