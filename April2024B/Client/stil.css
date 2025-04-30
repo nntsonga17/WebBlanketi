@@ -1,0 +1,38 @@
+.sadrzaj{
+    display: flex;
+    border: 1px solid black;
+    justify-content: flex-start;
+}
+.vremeOdabir{
+    width: 300px;
+    border-right: 1px solid black;
+    margin: 10px;
+}
+.red, .red1{
+    margin-bottom: 10px;
+    display: flex;
+}
+.glavniDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.odabirMaratonca{
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.kojaTrka, .odabirMaratonca{
+    align-self: center;
+}
+button{
+    margin: 10px;
+    width: 93%;   
+}
+.prikazTrenutniProgres{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
